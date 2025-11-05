@@ -1,6 +1,6 @@
-## Hi, I’m Pinzhi (Edwin) Huang 👋
+## Hi, I'm Pinzhi Huang 👋
 
-I'm an undergraduate student at New York University advised by Saining Xie. I previously interned at Google Gemini.
+I also go by the name **Edwin Huang**. I'm an undergrad at NYU advised by Saining Xie. And I previously interned at@Google Gemini
+I spend my time training LLMs and brewing the perfect espresso, which requires surprisingly similar skills. 
 
-I spend my time training LLMs and brewing the perfect espresso, which require surprisingly similar skills.
-
+ph2239[at]nyu[dot]edu
