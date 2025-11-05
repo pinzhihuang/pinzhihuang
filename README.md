@@ -1,6 +1,6 @@
-## Hi, I'm Pinzhi Huang 👋
+## Hi, I'm Edwin 👋
 
-I also go by **Edwin Huang**.  
+I also go by the name [Pinzhi Huang](https://pinzhihuang.github.io/).  
 I'm an undergraduate at NYU advised by [Saining Xie](https://www.sainingxie.com/).  
 Previously, I interned at @Google Gemini.
 
